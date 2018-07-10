@@ -17,16 +17,13 @@ F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microso
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.AppContext.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Collections.Immutable.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Console.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Diagnostics.Process.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.IO.Compression.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.IO.FileSystem.dll
-F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.IO.Pipes.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Reflection.Metadata.dll
@@ -38,7 +35,6 @@ F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Security.Principal.Windows.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
-F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Threading.Thread.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.ValueTuple.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Xml.ReaderWriter.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Xml.XmlDocument.dll
@@ -69,3 +65,5 @@ F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWor
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.csproj.CopyComplete
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.dll
 F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.pdb
+F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\CPW 213 - .NET Web Programming\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
